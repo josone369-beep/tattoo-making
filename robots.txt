@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amazing-malabi-e1daff.netlify.app/sitemap.xml
